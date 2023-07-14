@@ -1,2 +1,2 @@
-# MyFirstRepository
-My repository
+# Это мой первый репозиторий
+Здесь я буду распологать работы с курса *C#-разработчик от SkillFactory*
